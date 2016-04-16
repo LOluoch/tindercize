@@ -1,0 +1,22 @@
+{
+  "name": "tindercize",
+  "version": "1.0.0",
+  "description": "Find your perfect workout buddy :) Hello from Yomna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ielashi/tindercize"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ielashi/tindercize/issues"
+  },
+  "homepage": "https://github.com/ielashi/tindercize",
+  "dependencies": {
+    "telegram-bot-bootstrap": "0.0.15"
+  }
+}
