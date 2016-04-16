@@ -1,0 +1,19 @@
+{
+  "name": "tindercize",
+  "version": "1.0.0",
+  "description": "Fight obesity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abdulrahmanosoble/tindercize.git"
+  },
+  "author": "Abdulrahman Osoble, Youmna Omar, Lavine Oluoch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulrahmanosoble/tindercize/issues"
+  },
+  "homepage": "https://github.com/abdulrahmanosoble/tindercize#readme"
+}
