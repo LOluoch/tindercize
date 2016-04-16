@@ -1,2 +1,2 @@
 # tindercize
-Find your perfect workout buddy.
+Find your perfect workout buddy :)
